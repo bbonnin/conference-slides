@@ -12,7 +12,7 @@ Gijs Weterings | [gweterings](https://twitter.com/gweterings) |
 Rick Hanlon | [rickhanlonii](https://twitter.com/rickhanlonii) |
 Kyle Mathews | [kylemathews](https://twitter.com/kylemathews) |
 Patrick Stapfer | [ryyppy](https://twitter.com/ryyppy) |
-Evan You | [youyuxi[https://twitter.com/youyuxi) |
+Evan You | [youyuxi](https://twitter.com/youyuxi) |
 John Lindquist | [johnlindquist](https://twitter.com/johnlindquist) |
 Natalia Venditto | [AnfibiaCreativa](https://twitter.com/AnfibiaCreativa) |
 Guillaume Chau | [Akryum](https://twitter.com/Akryum) |
@@ -23,7 +23,7 @@ Damian Dulisz | [DamianDulisz](https://twitter.com/DamianDulisz) |
 Tim Benniks | [timbenniks](https://twitter.com/timbenniks) |
 Jen Looper | [jenlooper](https://twitter.com/jenlooper) |
 Filip Rakowski | [filrakowski](https://twitter.com/filrakowski) |
-Sara Vieira | [NikkitaFTW) [https://twitter.com/NikkitaFTW]|
+Sara Vieira | [NikkitaFTW](https://twitter.com/NikkitaFTW) |
 Maya Shavin | [MayaShavin](https://twitter.com/MayaShavin) |
 Natalia Tepluhina | [N_Tepluhina](https://twitter.com/N_Tepluhina) |
 Nader Dabit | [dabit3](https://twitter.com/dabit3) |
