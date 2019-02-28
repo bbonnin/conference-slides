@@ -1,22 +1,27 @@
-# Vuejs Amsterdam 2019
+
+# Frontend Developper Love 2019/02/11
 
 Speakers | Twitter | Talks
 -------- | ------- | -----
 Johannes Ewald | [Jhnnns](https://twitter.com/Jhnnns) | The future of JavaScript bundlers<br>https://peerigon.github.io/talks/2019-02-13-developer-frontend-love/slide/#/
-Elena Gancheva | [eagancheva](https://twitter.com/eagancheva) |
-Luca Mezzalira | [lucamezzalira](https://twitter.com/lucamezzalira) |
-Max Gallo | [_maxgallo](https://twitter.com/_maxgallo) |
-Ana Cidre | [AnaCidre_](https://twitter.com/AnaCidre_) |
-Sherry List | [sherrrylst](https://twitter.com/sherrrylst) |
-Gijs Weterings | [gweterings](https://twitter.com/gweterings) |
-Rick Hanlon | [rickhanlonii](https://twitter.com/rickhanlonii) |
-Kyle Mathews | [kylemathews](https://twitter.com/kylemathews) |
-Patrick Stapfer | [ryyppy](https://twitter.com/ryyppy) |
-Evan You | [youyuxi](https://twitter.com/youyuxi) |
-John Lindquist | [johnlindquist](https://twitter.com/johnlindquist) |
-Natalia Venditto | [AnfibiaCreativa](https://twitter.com/AnfibiaCreativa) |
+Sean Larkin | [TheLarkInn](https://twitter.com/TheLarkInn) | New Features of Webpack 5
+Elena Gancheva | [eagancheva](https://twitter.com/eagancheva) | Elegance of Movement with reactive Angular Animations<br/>https://bit.ly/2SntlbQ<br/>Demo: https://github.com/elena-gancheva/Elegance-of-Movement-with-Reactive-Angular-Animations
+Luca Mezzalira | [lucamezzalira](https://twitter.com/lucamezzalira) | You don't know Microfrontends<br/>https://twitter.com/_maxgallo/status/1095712992413532163
+Max Gallo | [_maxgallo](https://twitter.com/_maxgallo) | "
+Ana Cidre | [AnaCidre_](https://twitter.com/AnaCidre_) | Angular and Webcomponents<br/>https://www.slideshare.net/AnaCidre/web-components-with-angular
+Sherry List | [sherrrylst](https://twitter.com/sherrrylst) | "
+Gijs Weterings | [gweterings](https://twitter.com/gweterings) | Transforming your Web Application into a PWA - Why and How?
+Rick Hanlon | [rickhanlonii](https://twitter.com/rickhanlonii) | The Fresh Jest of Bel-Air<br/>https://rickhanlon.codes/talks/fresh/assets/player/KeynoteDHTMLPlayer.html
+David den Toom | | Rest, GraphQL & gRPC
+Kyle Mathews | [kylemathews](https://twitter.com/kylemathews) | What is new with Gatsby.js
+Patrick Stapfer | [ryyppy](https://twitter.com/ryyppy) | A New Generation of Natively Compiled Tools
+Evan You | [youyuxi](https://twitter.com/youyuxi) | What it’s like to be a full time open source maintainer
+John Lindquist | [johnlindquist](https://twitter.com/johnlindquist) | Unlock the Proxy Power<br/>https://github.com/johnlindquist/proxy-presentation
+Natalia Venditto | [AnfibiaCreativa](https://twitter.com/AnfibiaCreativa) | Automated Scaffolding with Schematics (Angular)<br/>Article: https://twitter.com/AnfibiaCreativa/status/1096028319370407937
+
+# Vuejs Amsterdam 2019/02/12 - 13
+
 Guillaume Chau | [Akryum](https://twitter.com/Akryum) |
-Sean Larkin | [TheLarkInn](https://twitter.com/TheLarkInn) |
 Eduardo San Martin Morote | [posva](https://twitter.com/posva) |
 Quique Fernandez Guerra | [CKGrafico](https://twitter.com/CKGrafico) |
 Damian Dulisz | [DamianDulisz](https://twitter.com/DamianDulisz) |
