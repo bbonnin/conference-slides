@@ -2,40 +2,38 @@
 
 Speakers | Twitter | Talks
 -------- | ------- | -----
-Johannes Ewald | [https://twitter.com/Jhnnns](Jhnnns) | The future of JavaScript bundlers<br>
-Slides: https://peerigon.github.io/talks/2019-02-13-developer-frontend-love/slide/#/
-
-Elena Gancheva | [https://twitter.com/eagancheva](eagancheva) |
-Luca Mezzalira | [https://twitter.com/lucamezzalira](lucamezzalira) |
-Max Gallo | [https://twitter.com/_maxgallo](_maxgallo) |
-Ana Cidre | [https://twitter.com/AnaCidre_](AnaCidre_) |
-Sherry List | [https://twitter.com/sherrrylst](sherrrylst) |
-Gijs Weterings | [https://twitter.com/gweterings](gweterings) |
-Rick Hanlon | [https://twitter.com/rickhanlonii](rickhanlonii) |
-Kyle Mathews | [https://twitter.com/kylemathews](kylemathews) |
-Patrick Stapfer | [https://twitter.com/ryyppy](ryyppy) |
-Evan You | [https://twitter.com/youyuxi](youyuxi) |
-John Lindquist | [https://twitter.com/johnlindquist](johnlindquist) |
-Natalia Venditto | [https://twitter.com/AnfibiaCreativa](AnfibiaCreativa) |
-Guillaume Chau | [https://twitter.com/Akryum](Akryum) |
-Sean Larkin | [https://twitter.com/TheLarkInn](TheLarkInn) |
-Eduardo San Martin Morote | [https://twitter.com/posva](posva) |
-Quique Fernandez Guerra | [https://twitter.com/CKGrafico](CKGrafico) |
-Damian Dulisz | [https://twitter.com/DamianDulisz](DamianDulisz) |
-Tim Benniks | [https://twitter.com/timbenniks](timbenniks) |
-Jen Looper | [https://twitter.com/jenlooper](jenlooper) |
-Filip Rakowski | [https://twitter.com/filrakowski](filrakowski) |
-Sara Vieira | [https://twitter.com/NikkitaFTW](NikkitaFTW) |
-Maya Shavin | [https://twitter.com/MayaShavin](MayaShavin) |
-Natalia Tepluhina | [https://twitter.com/N_Tepluhina](N_Tepluhina) |
-Nader Dabit | [https://twitter.com/dabit3](dabit3) |
-Jacob Schatz | [https://twitter.com/jakecodes](jakecodes) |
-Alex Kyriakidis | [https://twitter.com/hootlex](hootlex) |
-Rolf Haug | [https://twitter.com/rahaug](rahaug) |
-Thorsten Linusborg | [https://twitter.com/Linus_Borg](Linus_Borg) |
-Gregg Pollack | [https://twitter.com/greggpollack](greggpollack) |
-Sébastien Chopin | [https://twitter.com/Atinux](Atinux) |
-Filipa Lacerda | [https://twitter.com/FilipaLacerda](FilipaLacerda) |
-Roman Kuba | [https://twitter.com/Codebryo](Codebryo) |
-Chris Fritz | [https://twitter.com/chrisvfritz](chrisvfritz) |
+Johannes Ewald | [Jhnnns](https://twitter.com/Jhnnns) | The future of JavaScript bundlers<br>https://peerigon.github.io/talks/2019-02-13-developer-frontend-love/slide/#/
+Elena Gancheva | [eagancheva](https://twitter.com/eagancheva) |
+Luca Mezzalira | [lucamezzalira](https://twitter.com/lucamezzalira) |
+Max Gallo | [_maxgallo](https://twitter.com/_maxgallo) |
+Ana Cidre | [AnaCidre_](https://twitter.com/AnaCidre_) |
+Sherry List | [sherrrylst](https://twitter.com/sherrrylst) |
+Gijs Weterings | [gweterings](https://twitter.com/gweterings) |
+Rick Hanlon | [rickhanlonii](https://twitter.com/rickhanlonii) |
+Kyle Mathews | [kylemathews](https://twitter.com/kylemathews) |
+Patrick Stapfer | [ryyppy](https://twitter.com/ryyppy) |
+Evan You | [youyuxi[https://twitter.com/youyuxi) |
+John Lindquist | [johnlindquist](https://twitter.com/johnlindquist) |
+Natalia Venditto | [AnfibiaCreativa](https://twitter.com/AnfibiaCreativa) |
+Guillaume Chau | [Akryum](https://twitter.com/Akryum) |
+Sean Larkin | [TheLarkInn](https://twitter.com/TheLarkInn) |
+Eduardo San Martin Morote | [posva](https://twitter.com/posva) |
+Quique Fernandez Guerra | [CKGrafico](https://twitter.com/CKGrafico) |
+Damian Dulisz | [DamianDulisz](https://twitter.com/DamianDulisz) |
+Tim Benniks | [timbenniks](https://twitter.com/timbenniks) |
+Jen Looper | [jenlooper](https://twitter.com/jenlooper) |
+Filip Rakowski | [filrakowski](https://twitter.com/filrakowski) |
+Sara Vieira | [NikkitaFTW) [https://twitter.com/NikkitaFTW]|
+Maya Shavin | [MayaShavin](https://twitter.com/MayaShavin) |
+Natalia Tepluhina | [N_Tepluhina](https://twitter.com/N_Tepluhina) |
+Nader Dabit | [dabit3](https://twitter.com/dabit3) |
+Jacob Schatz | [jakecodes](https://twitter.com/jakecodes) |
+Alex Kyriakidis | [hootlex](https://twitter.com/hootlex) |
+Rolf Haug | [rahaug](https://twitter.com/rahaug) |
+Thorsten Linusborg | [Linus_Borg](https://twitter.com/Linus_Borg) |
+Gregg Pollack | [greggpollack](https://twitter.com/greggpollack) |
+Sébastien Chopin | [Atinux](https://twitter.com/Atinux) |
+Filipa Lacerda | [FilipaLacerda](https://twitter.com/FilipaLacerda) |
+Roman Kuba | [Codebryo](https://twitter.com/Codebryo) |
+Chris Fritz | [chrisvfritz](https://twitter.com/chrisvfritz) |
 
