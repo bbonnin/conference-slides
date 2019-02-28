@@ -23,23 +23,26 @@ Natalia Venditto | [AnfibiaCreativa](https://twitter.com/AnfibiaCreativa) | Auto
 
 Speakers | Twitter | Talks
 -------- | ------- | -----
+Evan You | [youyuxi](https://twitter.com/youyuxi) | State of the Vuenion
 Guillaume Chau | [Akryum](https://twitter.com/Akryum) | Vue 2.6 SSR revolution<br/>https://slides.com/akryum/vue-26-ssr-revolution#/<br/>Create a Vue CLI plugin<br/>https://slides.com/akryum/create-a-vue-cli-plugin#/
-Eduardo San Martin Morote | [posva](https://twitter.com/posva) | Make your Vue apps Lighter by being lazy<br/>https://slides.com/posva/making-your-vue-apps-faster-by-being-lazy#/
-Quique Fernandez Guerra | [CKGrafico](https://twitter.com/CKGrafico) | Empowering Vue with TypeScript, Inversify, Vuex and some other super tools<br/>https://www.slideshare.net/CKGrafico/empowering-vue-with-typescript-inversify-vuex-and-some-other-super-tools-131901058
-Damian Dulisz | [DamianDulisz](https://twitter.com/DamianDulisz) | Designing Components in Vue<br/>https://github.com/shentao/composing-components
-Tim Benniks | [timbenniks](https://twitter.com/timbenniks) |
+Tim Benniks | [timbenniks](https://twitter.com/timbenniks) | Vue.js for L'oreal, a case study
 Jen Looper | [jenlooper](https://twitter.com/jenlooper) | NativeScript-Vue + ML = The Great MiniBar Challenge: MixoLogy<br/>https://slides.com/telerikdevrel/minibar#/
 Filip Rakowski | [filrakowski](https://twitter.com/filrakowski) | Modern Web Apps Performance Tricks with PWA and Vue.js<br/>https://www.slideshare.net/FilipRakowski/performance-optimization-of-vuejs-apps-with-modern-js
 Sara Vieira | [NikkitaFTW](https://twitter.com/NikkitaFTW) | GraphQL + Apollo + Vue.js = Magic<br/>https://vue-apollo-magic.now.sh/
 Maya Shavin | [MayaShavin](https://twitter.com/MayaShavin) | Media for everyone - how to make your Vue Apps accessible for all users<br/>https://www.slideshare.net/dpnminh/m16y-how-to-make-your-media-accessible-for-all-users
 Natalia Tepluhina | [N_Tepluhina](https://twitter.com/N_Tepluhina) | Desktop applications with Vue<br/>https://www.slideshare.net/NataliaTepluhina/desktop-apps-with-vue
+Damian Dulisz | [DamianDulisz](https://twitter.com/DamianDulisz) | Designing Components in Vue<br/>https://github.com/shentao/composing-components
 Nader Dabit | [dabit3](https://twitter.com/dabit3) | Full Stack Vue in the Era of Serverless Computing<br/>https://www.dropbox.com/sh/2m6o3ba1i9hra1n/AABkIpgBA5jXW5jz-cTKCxJja?dl=0
-Jacob Schatz | [jakecodes](https://twitter.com/jakecodes) |
-Alex Kyriakidis | [hootlex](https://twitter.com/hootlex) |
-Rolf Haug | [rahaug](https://twitter.com/rahaug) |
+Jacob Schatz | [jakecodes](https://twitter.com/jakecodes) | Phenomenal design patterns in Vue using Vuex with Spiders
+Alex Kyriakidis | [hootlex](https://twitter.com/hootlex) | Static Site Generation is Awesome
+Rolf Haug | [rahaug](https://twitter.com/rahaug) | Static Site Generation is Awesome
+Sean Larkin | [TheLarkInn](https://twitter.com/TheLarkInn) | Everything's a plugin: Understanding webpack from the inside out
+Eduardo San Martin Morote | [posva](https://twitter.com/posva) | Make your Vue apps Lighter by being lazy<br/>https://slides.com/posva/making-your-vue-apps-faster-by-being-lazy#/
 Thorsten Linusborg | [Linus_Borg](https://twitter.com/Linus_Borg) | Building Components with Vue CLI 3<br/>https://speakerdeck.com/linusborg/building-components-with-vue-cli-3
-Gregg Pollack | [greggpollack](https://twitter.com/greggpollack) |
+Quique Fernandez Guerra | [CKGrafico](https://twitter.com/CKGrafico) | Empowering Vue with TypeScript, Inversify, Vuex and some other super tools<br/>https://www.slideshare.net/CKGrafico/empowering-vue-with-typescript-inversify-vuex-and-some-other-super-tools-131901058
+Gregg Pollack | [greggpollack](https://twitter.com/greggpollack) | Introduction to Nuxt.js - Nuxt explained Visually
 Sébastien Chopin | [Atinux](https://twitter.com/Atinux) | Nuxt.js 2019 - Don't miss the NEWS!<br/>https://www.youtube.com/watch?v=Ad5FF3BEY00
+Roman Kuba | [Codebryo](https://twitter.com/Codebryo) | Next Level Jest Testing with Vue.js
 Filipa Lacerda | [FilipaLacerda](https://twitter.com/FilipaLacerda) | Vuex patterns - Why actions matter<br/>https://slides.com/filipalacerda/vuejs-amsterdam#/
-Roman Kuba | [Codebryo](https://twitter.com/Codebryo) |
+Callum Macrae	| | Accesssibility with Vue.js
 Chris Fritz | [chrisvfritz](https://twitter.com/chrisvfritz) | Visualizations using SVG, Canvas, and WebGL in Vue<br/>https://fritz.netlify.com/slides/viz-in-vue/1 
