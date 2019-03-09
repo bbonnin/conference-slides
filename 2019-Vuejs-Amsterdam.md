@@ -42,7 +42,7 @@ Thorsten Linusborg | [Linus_Borg](https://twitter.com/Linus_Borg) | Building Com
 Quique Fernandez Guerra | [CKGrafico](https://twitter.com/CKGrafico) | Empowering Vue with TypeScript, Inversify, Vuex and some other super tools<br/>https://www.slideshare.net/CKGrafico/empowering-vue-with-typescript-inversify-vuex-and-some-other-super-tools-131901058
 Gregg Pollack | [greggpollack](https://twitter.com/greggpollack) | Introduction to Nuxt.js - Nuxt explained Visually
 Sébastien Chopin | [Atinux](https://twitter.com/Atinux) | Nuxt.js 2019 - Don't miss the NEWS!<br/>https://www.youtube.com/watch?v=Ad5FF3BEY00
-Roman Kuba | [Codebryo](https://twitter.com/Codebryo) | Next Level Jest Testing with Vue.js
+Roman Kuba | [Codebryo](https://twitter.com/Codebryo) | Next Level Jest Testing with Vue.js<br/> https://speakerdeck.com/codebryo/next-level-jest-testing-for-vue
 Filipa Lacerda | [FilipaLacerda](https://twitter.com/FilipaLacerda) | Vuex patterns - Why actions matter<br/>https://slides.com/filipalacerda/vuejs-amsterdam#/
 Callum Macrae	| | Accesssibility with Vue.js
 Chris Fritz | [chrisvfritz](https://twitter.com/chrisvfritz) | Visualizations using SVG, Canvas, and WebGL in Vue<br/>https://fritz.netlify.com/slides/viz-in-vue/1 
