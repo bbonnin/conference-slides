@@ -23,7 +23,7 @@ Natalia Venditto | [AnfibiaCreativa](https://twitter.com/AnfibiaCreativa) | Auto
 
 Speakers | Twitter | Talks
 -------- | ------- | -----
-Evan You | [youyuxi](https://twitter.com/youyuxi) | State of the Vuenion
+Evan You | [youyuxi](https://twitter.com/youyuxi) | State of the Vuenion<br/>Video: https://www.youtube.com/watch?v=zB3HOejXqwk
 Guillaume Chau | [Akryum](https://twitter.com/Akryum) | Vue 2.6 SSR revolution<br/>https://slides.com/akryum/vue-26-ssr-revolution#/<br/>Create a Vue CLI plugin<br/>https://slides.com/akryum/create-a-vue-cli-plugin#/
 Tim Benniks | [timbenniks](https://twitter.com/timbenniks) | Vue.js for L'oreal, a case study
 Jen Looper | [jenlooper](https://twitter.com/jenlooper) | NativeScript-Vue + ML = The Great MiniBar Challenge: MixoLogy<br/>https://slides.com/telerikdevrel/minibar#/
