@@ -11,7 +11,7 @@ Joan López de la Franca | [joanjan14](https://twitter.com/joanjan14) | Beltran
 Olivier Wulveryck | [owulveryck](https://twitter.com/owulveryck) | ONNX-Go, neural networks made easy<br/>https://speakerdeck.com/owulveryck/onnx-go-neural-networks-made-easy
 Natalie Pistunovich | [NataliePis](https://twitter.com/NataliePis) | TensorFlow and Go
 Dave Cheney | [davecheney](https://twitter.com/davecheney) | Constants
-Roberto Clapis | [empijei](https://twitter.com/empijei) | Channels
+Roberto Clapis | [empijei](https://twitter.com/empijei) | The monsters inside the sync.Locker<br/>https://t.co/Fv6vFfxw3V
 Bryan Boreham | [bboreham](https://twitter.com/bboreham) | Tune Your Garbage-Collector!
 Johan Brandhorst | [JohanBrandhorst](https://twitter.com/JohanBrandhorst) | Get going with WebAssembly<br/>https://talks.godoc.org/github.com/johanbrandhorst/presentations/wasm/wasm.slide#1
 Jean de Klerk | [jadekler](https://twitter.com/jadekler) | Multi-Module Repositories
