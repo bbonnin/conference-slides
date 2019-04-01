@@ -12,7 +12,7 @@ Olivier Wulveryck | [owulveryck](https://twitter.com/owulveryck) | ONNX-Go, neur
 Natalie Pistunovich | [NataliePis](https://twitter.com/NataliePis) | TensorFlow and Go
 Dave Cheney | [davecheney](https://twitter.com/davecheney) | Constants
 Roberto Clapis | [empijei](https://twitter.com/empijei) | The monsters inside the sync.Locker<br/>https://t.co/Fv6vFfxw3V
-Bryan Boreham | [bboreham](https://twitter.com/bboreham) | Tune Your Garbage-Collector!
+Bryan Boreham | [bboreham](https://twitter.com/bboreham) | Tune Your Garbage-Collector!<br/>https://www.slideshare.net/weaveworks/tune-your-go-garbagecollector
 Johan Brandhorst | [JohanBrandhorst](https://twitter.com/JohanBrandhorst) | Get going with WebAssembly<br/>https://talks.godoc.org/github.com/johanbrandhorst/presentations/wasm/wasm.slide#1
 Jean de Klerk | [jadekler](https://twitter.com/jadekler) | Multi-Module Repositories
 Ellen Körbes | [ellenkorbes](https://twitter.com/ellenkorbes) | 3D modeling with Go
