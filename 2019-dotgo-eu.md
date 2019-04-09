@@ -15,6 +15,6 @@ Roberto Clapis | [empijei](https://twitter.com/empijei) | The monsters inside th
 Bryan Boreham | [bboreham](https://twitter.com/bboreham) | Tune Your Garbage-Collector!<br/>https://www.slideshare.net/weaveworks/tune-your-go-garbagecollector
 Johan Brandhorst | [JohanBrandhorst](https://twitter.com/JohanBrandhorst) | Get going with WebAssembly<br/>https://talks.godoc.org/github.com/johanbrandhorst/presentations/wasm/wasm.slide#1
 Jean de Klerk | [jadekler](https://twitter.com/jadekler) | Multi-Module Repositories
-Ellen Körbes | [ellenkorbes](https://twitter.com/ellenkorbes) | 3D modeling with Go
+Ellen Körbes | [ellenkorbes](https://twitter.com/ellenkorbes) | 3D modeling with Go<br/>https://www.youtube.com/watch?v=ZACOc-NwV0c
 Jessica Frazelle | [jessfraz](https://twitter.com/jessfraz) | Introduction to RISC-V
 Marcel van Lohuizen | [mpvl_](https://twitter.com/mpvl_) | Go 2 Error Values Today
