@@ -18,3 +18,7 @@ Jean de Klerk | [jadekler](https://twitter.com/jadekler) | Multi-Module Reposito
 Ellen Körbes | [ellenkorbes](https://twitter.com/ellenkorbes) | 3D modeling with Go<br/>https://www.youtube.com/watch?v=ZACOc-NwV0c
 Jessica Frazelle | [jessfraz](https://twitter.com/jessfraz) | Introduction to RISC-V
 Marcel van Lohuizen | [mpvl_](https://twitter.com/mpvl_) | Go 2 Error Values Today
+
+
+
+https://twitter.com/val_deleplace/status/1113760609412222976?s=21
