@@ -9,6 +9,7 @@ Ignat Korchagin | [secumod](https://twitter.com/secumod) | Go as a scripting lan
 Michael McLoughlin | [mbmcloughlin](https://twitter.com/mbmcloughlin) | Better x86 Assembly Generation with Go<br/>Slides: https://speakerdeck.com/mmcloughlin/better-x86-assembly-generation-with-go<br/>Project: https://github.com/mmcloughlin/avo
 Joan López de la Franca | [joanjan14](https://twitter.com/joanjan14) | Beltran
 Olivier Wulveryck | [owulveryck](https://twitter.com/owulveryck) | ONNX-Go, neural networks made easy<br/>https://speakerdeck.com/owulveryck/onnx-go-neural-networks-made-easy
+Valentin Deleplace  | [val_deleplace](https://twitter.com/val_deleplace) | Swimming Pool Semaphores<br/>https://twitter.com/val_deleplace/status/1113760609412222976?s=21
 Natalie Pistunovich | [NataliePis](https://twitter.com/NataliePis) | TensorFlow and Go
 Dave Cheney | [davecheney](https://twitter.com/davecheney) | Constants
 Roberto Clapis | [empijei](https://twitter.com/empijei) | The monsters inside the sync.Locker<br/>https://t.co/Fv6vFfxw3V
@@ -18,7 +19,3 @@ Jean de Klerk | [jadekler](https://twitter.com/jadekler) | Multi-Module Reposito
 Ellen Körbes | [ellenkorbes](https://twitter.com/ellenkorbes) | 3D modeling with Go<br/>https://www.youtube.com/watch?v=ZACOc-NwV0c
 Jessica Frazelle | [jessfraz](https://twitter.com/jessfraz) | Introduction to RISC-V
 Marcel van Lohuizen | [mpvl_](https://twitter.com/mpvl_) | Go 2 Error Values Today
-
-
-
-https://twitter.com/val_deleplace/status/1113760609412222976?s=21
